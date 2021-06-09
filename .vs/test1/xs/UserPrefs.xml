@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{3FA117E3-0EE5-4C37-A922-1E3BAF3E0064}|Default">
+  <MonoDevelop.Ide.ItemProperties.test1 automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
+  <MonoDevelop.Ide.Workbench ActiveDocument="test1/Main.cs">
+    <Files>
+      <File FileName="test1/Main.cs" Line="1" Column="1" />
+      <File FileName="test1/ViewController.cs" />
+      <File FileName="test1/ViewController.designer.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="test1" expanded="True">
+            <Node name="test1" expanded="True">
+              <Node name="Main.cs" selected="True" />
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

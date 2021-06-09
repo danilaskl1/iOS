@@ -1,0 +1,29 @@
+# Version: 14.20.0.1 (d16-10: fe0e2c518)
+/Library/Frameworks/Xamarin.iOS.framework/Versions/14.20.0.1/lib/mtouch/mtouch.exe \
+	--debug \
+	--sgen-conc \
+	'/target-framework:Xamarin.iOS,Version=v1.0' \
+	--http-message-handler=NSUrlSessionHandler \
+	--cache=/Users/danila/Projects/test1/test1/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--root-assembly=/Users/danila/Projects/test1/test1/bin/iPhoneSimulator/Debug/test1.exe \
+	--sdkroot=/Applications/Xcode.app/Contents/Developer \
+	--targetver=14.5 \
+	--sim=/Users/danila/Projects/test1/test1/bin/iPhoneSimulator/Debug/test1.app \
+	--executable=test1 \
+	--nolink \
+	--sdk=14.5 \
+	--aot-options=-O=-float32 \
+	--abi=x86_64 \
+	--symbollist=/Users/danila/Projects/test1/test1/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
+	--dsym=no \
+	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/OpenTK-1.0.dll \
+	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Drawing.Common.dll \
+	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Numerics.dll \
+	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Numerics.Vectors.dll \
+	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	--reference=/Users/danila/.nuget/packages/xamarin.essentials/1.6.1/lib/xamarinios10/Xamarin.Essentials.dll \
+	@/Users/danila/Projects/test1/test1/obj/iPhoneSimulator/Debug/response-file.rsp \

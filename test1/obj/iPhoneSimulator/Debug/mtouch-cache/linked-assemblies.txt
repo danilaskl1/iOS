@@ -1,0 +1,11 @@
+RemoveDynamicRegistrar:false
+/Users/danila/Projects/test1/test1/bin/iPhoneSimulator/Debug/test1.app:/Users/danila/Projects/test1/test1/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/test1.exe
+/Users/danila/Projects/test1/test1/bin/iPhoneSimulator/Debug/test1.app:/Users/danila/Projects/test1/test1/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+/Users/danila/Projects/test1/test1/bin/iPhoneSimulator/Debug/test1.app:/Users/danila/Projects/test1/test1/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+/Users/danila/Projects/test1/test1/bin/iPhoneSimulator/Debug/test1.app:/Users/danila/Projects/test1/test1/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+/Users/danila/Projects/test1/test1/bin/iPhoneSimulator/Debug/test1.app:/Users/danila/Projects/test1/test1/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Mono.Security.dll
+/Users/danila/Projects/test1/test1/bin/iPhoneSimulator/Debug/test1.app:/Users/danila/Projects/test1/test1/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Xml.dll
+/Users/danila/Projects/test1/test1/bin/iPhoneSimulator/Debug/test1.app:/Users/danila/Projects/test1/test1/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Numerics.dll
+/Users/danila/Projects/test1/test1/bin/iPhoneSimulator/Debug/test1.app:/Users/danila/Projects/test1/test1/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Core.dll
+/Users/danila/Projects/test1/test1/bin/iPhoneSimulator/Debug/test1.app:/Users/danila/Projects/test1/test1/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Net.Http.dll
+/Users/danila/Projects/test1/test1/bin/iPhoneSimulator/Debug/test1.app:/Users/danila/Projects/test1/test1/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Drawing.Common.dll
